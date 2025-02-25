@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .table-section {
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f0f0f0;
+  }
+  
